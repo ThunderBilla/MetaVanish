@@ -1,8 +1,5 @@
 MetaVanish – Metadata Remover for Privacy-Conscious Users
 ---------------------------------------------------------
-
-Thank you for installing MetaVanish.
-
 MetaVanish is a lightweight privacy tool built to help individuals, professionals, and organizations remove hidden metadata from images and PDF files — before they’re shared with the world.
 
 Why it matters:
@@ -31,5 +28,7 @@ How to Download:
 Click on this link -- [MetaVanishSetup.zip](https://drive.google.com/file/d/1Znfi2Wx6cSGIF601m2Q2RLoz856A3cRq/view?usp=drive_link)
 
 Built with 💙 in Python — because privacy should be simple, elegant, and accessible to everyone.
+
+Thank you for installing MetaVanish.
 
 (c) 2025 MetaVanish Team. All rights reserved.
