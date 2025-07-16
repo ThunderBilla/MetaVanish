@@ -25,4 +25,11 @@ How to Use:
 3. Click “View Metadata” to inspect hidden data  
 4. Click “Strip Metadata” to remove it and save a clean version
 
+How to Download:
+----------- 
+
+Click on this link -- [MetaVanishSetup.zip](https://drive.google.com/file/d/1Znfi2Wx6cSGIF601m2Q2RLoz856A3cRq/view?usp=drive_link)
+
 Built with 💙 in Python — because privacy should be simple, elegant, and accessible to everyone.
+
+(c) 2025 MetaVanish Team. All rights reserved.
