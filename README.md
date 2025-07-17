@@ -25,7 +25,7 @@ How to Use:
 How to Download:
 ----------- 
 
-Click on this link -- [MetaVanishSetup.zip](https://drive.google.com/file/d/1Znfi2Wx6cSGIF601m2Q2RLoz856A3cRq/view?usp=drive_link)
+Click on this link -- [MetaVanishSetup.zip](https://drive.google.com/file/d/10iD5Tr2LhdDm6Nkvf76oDzq7Ju3I2SeI/view?usp=sharing)
 
 Built with 💙 in Python — because privacy should be simple, elegant, and accessible to everyone.
 
